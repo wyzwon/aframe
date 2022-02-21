@@ -519,7 +519,7 @@ this.el.addEventListener('physicscollided', (event) => {
 ```
 
 
-2. By defining your event listener within the events object of the component (this will also handling adding and removing the listener automatically)
+2. By defining your event listener within the events object of the component (this will also handle adding and removing the listener automatically)
 
    See the explanation [here](../core/component.html#events).
 
